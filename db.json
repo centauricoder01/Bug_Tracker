@@ -1,5 +1,8 @@
 {
   "Bugs": [
-    { "id": 1, "title": "I am Bug", "Type": "Critical" }
+    { "id": 1, "title": "I am Critical bug.", "Type": "Critical" },
+    { "id": 2, "title": "I am Major bug.", "Type": "Major" },
+    { "id": 3, "title": "I am Medium bug", "Type": "Medium" },
+    { "id": 4, "title": "I am low bug.", "Type": "Low" },
   ]
 }
