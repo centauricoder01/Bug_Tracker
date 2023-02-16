@@ -1,8 +1,6 @@
 {
-  "Bugs": [
-    { "id": 1, "title": "I am Critical bug.", "Type": "Critical" },
-    { "id": 2, "title": "I am Major bug.", "Type": "Major" },
-    { "id": 3, "title": "I am Medium bug", "Type": "Medium" },
-    { "id": 4, "title": "I am low bug.", "Type": "Low" }
+  "users": [
+    { "id": 1,"username":"rajen", "email": "rajendra@gmail.com", "password": "rajen" },
+    { "id": 2,"username":"admin", "email": "admin@stockbroker.com", "password": "admin123" }
   ]
 }
